@@ -45,12 +45,6 @@ class MainActivity : AppCompatActivity(), View.OnClickListener {
         multiply_button.setOnClickListener(this)
         divide_button.setOnClickListener(this)
         clear_button.setOnClickListener(this)
-
-//        ViewCompat.setOnApplyWindowInsetsListener(findViewById(R.id.main)) { v, insets ->
-//            val systemBars = insets.getInsets(WindowInsetsCompat.Type.systemBars())
-//            v.setPadding(systemBars.left, systemBars.top, systemBars.right, systemBars.bottom)
-//            insets
-//        }
     }
 
     @SuppressLint("SetTextI18n")
