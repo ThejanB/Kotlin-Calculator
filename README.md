@@ -1,2 +1,2 @@
 # Kotlin-Calculator
-Kotlin Test project 1 - A simple calculator using Kotlin
+Kotlin Test Project 1 - A simple mobile calculator using Kotlin
